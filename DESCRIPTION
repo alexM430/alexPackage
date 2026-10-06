@@ -2,9 +2,9 @@ Package: alexPackage
 Type: Package
 Title: Plot and create Z-Values
 Version: 0.1.0
-Authors@R: person("Alex", "Müller")
+Authors@R: person("Alex", "Müller", email = "your@email.com", role = c("aut", "cre"))
 Description: One function creates a pretty plot and the other creates Z-Values.
-License: None
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Config/roxygen2/version: 8.1.0
